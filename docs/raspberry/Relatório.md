@@ -32,3 +32,4 @@ Este documento resume as tecnologias e as estratégias de otimização utilizada
 ## Conclusão
 
 O desenvolvimento do modelo seguiu uma trajetória iterativa e baseada em evidências. Cada platô de acurácia foi superado pela aplicação de uma nova técnica, começando com as mais simples (mais épocas) e progredindo para as mais complexas e eficazes (`Fine-Tuning` e `Análise de Erros`). Embora arquiteturas mais complexas como a `ResNet50V2` tenham sido exploradas, o modelo final escolhido foi o **`MobileNetV2`**. Esta decisão foi estratégica, priorizando a velocidade de inferência e a eficiência computacional, características essenciais para a implantação em dispositivos de borda com poder de processamento limitado, como um `Raspberry Pi`.
+<img width="690" height="334" alt="image" src="https://github.com/user-attachments/assets/53bdb838-d377-4b7b-9771-2d0193aeb6cd" />
